@@ -1,1 +1,1 @@
-# Peristaltic-Pump
+Peristaltic pump case: I used bigger step motor, PLC board and needed bigger spacing. Therefore, I designed bigger case for the project that I took from https://github.com/iGEM-Aachen/Open-Source-Peristaltic-Pump
